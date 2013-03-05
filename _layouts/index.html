@@ -13,8 +13,10 @@
 				{{ content }}
 			</div>
 			<div class="span5">
-				asdfasdfasdfasdf<ul class="posts">
-					<li>test</li>
+				for loop is back<ul class="posts">
+					{% for post in site.posts %}
+					<li>post</li>
+					{% endfor %}
 				</ul>
 			</div>
 		</div>
