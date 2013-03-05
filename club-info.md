@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: Club Information
 img: 
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, information, playing opportunities, leagues, tournaments, facilities

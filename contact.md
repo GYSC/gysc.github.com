@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: Contact
 img: 
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, contact
