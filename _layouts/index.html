@@ -13,18 +13,11 @@
 				{{ content }}
 			</div>
 			<div class="span5">
-				for loop is back
-				<ul>
-					<li>tada</li>
-					<li>another one</li>
-					<li>as;dlfkjas;df</li>
+				<ul class="posts">
+					{% for post in site.posts %}
+					<li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+					{% endfor %}
 				</ul>
-				<ol>
-					<li>one</li>
-					<li>two</li>
-					<li>three</li>
-					<li>four</li>
-				</ol>
 			</div>
 		</div>
 	</div>
