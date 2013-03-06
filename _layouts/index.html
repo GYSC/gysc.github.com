@@ -16,6 +16,9 @@
 				<ul class="posts">
 					<li>test</li>
 					<li>test2</li>
+					{% for post in site.posts %}
+					<li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+					{% endfor %}
 				</ul>
 			</div>
 		</div>
