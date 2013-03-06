@@ -3,3 +3,4 @@ title: Gettysburg Youth Soccer Club
 #build config
 server: true
 auto: true
+markdown: rdiscount 
