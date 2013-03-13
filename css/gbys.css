@@ -3,6 +3,7 @@ html, body {
 	height: 100%
 }
 body {
+	background-color: #ffffff;
 	background-color: rgba(0,0,0,0);
 	font-family: Calibri, Helvetica, Arial, sans-serif;
 }
@@ -40,7 +41,9 @@ body {
 }
 
 .navbar .nav > li > a {
+background-color: #000000;
   background-color:rgba(0,0,0,0);
+  color: #ff3333;
   color: rgba(255, 0, 0, 1);
   float: none;
   font-weight: bold;
@@ -51,6 +54,7 @@ body {
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
   /*background-color: rgba(291,74,56,1);*/
+  border-bottom: 3px solid #ff3333;
   border-bottom:3px solid rgba(255, 0, 0, .8);
   border-radius: 0;
   color: rgba(255,0,0,.8);
@@ -106,6 +110,7 @@ a.btn {
 .btn-primary.active,
 .btn-primary.disabled,
 .btn-primary[disabled] {
+	color:#ffffff;
   color: rgba(255,255,255,1);
   background-color: rgba(0,0,0,.3);
 }
@@ -113,8 +118,11 @@ a.btn {
 
 
 .banner {
+	background-color: #ff3333;
 	background-color:rgba(255, 51, 51, 1);
+	border-top:3px solid #C92626;
 	border-top:3px solid rgba(201, 38, 38, 1);
+	color: #ffffff;
 	color: rgba(255, 255, 255, 1);
 	margin-bottom:20px;
 	padding:20px 0;
