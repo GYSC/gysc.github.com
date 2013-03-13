@@ -40,7 +40,6 @@ body {
 }
 
 .navbar .nav > li > a {
-background-color: #000000;
   color: #ff3333;
   float: none;
   font-weight: bold;
@@ -119,6 +118,37 @@ a.btn {
 
 .trainer {
 	margin-top: 10px;
+}
+
+.navbar .btn-navbar {
+  background-color: #ffffff;
+  background-image: none;
+  background-repeat: no-repeat;
+  border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+  box-shadow: 0 0 0 rgba(255, 255, 255, 0) inset, 0 1px 0 rgba(255, 255, 255, 0);
+  color: #ff3333;
+  float: right;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 7px 10px;
+  text-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+.navbar .btn-navbar:hover,
+.navbar .btn-navbar:active,
+.navbar .btn-navbar.active,
+.navbar .btn-navbar.disabled,
+.navbar .btn-navbar[disabled] {
+  color: #ffffff;
+  background-color: #ffffff;
+  *background-color: #ffffff;
+}
+.navbar .btn-navbar .icon-bar {
+  background-color: #ff3333;
+  border-radius: 1px 1px 1px 1px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 2px;
+  width: 18px;
 }
 
 @media (max-width: 767px) {
