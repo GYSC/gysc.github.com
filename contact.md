@@ -5,7 +5,7 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, contact
 permalink: /contact/
 ---
-Playing opportunities: Mike Bishop at <a href="mailto:mbishop@gettysburg.edu">mbishop@gettysburg.edu</a>
+<b>Playing opportunities</b>: Mike Bishop at <a href="mailto:mbishop@gettysburg.edu">mbishop@gettysburg.edu</a>
 
 Registration: Lori Bridel at <a href="mailto:blbridel@embarqmail.com">blbridel@embarqmail.com</a>
 
