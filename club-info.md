@@ -7,7 +7,9 @@ permalink: /club-info/
 ---
 The Gettysburg Youth Soccer Club (GYSC) provides soccer training and playing opportunities for both boys and girls in the Gettysburg, Pennsylvania and surrounding areas of south central Pennsylvania. The GYSC coaching staff includes professional trainers as well as qualified non-professional coaches – all with the aim towards providing amazing opportunities for kids to enjoy the “beautiful game.”
 
-<b>Playing Opportunities</b>: GYSC provides teams for both boys and girls from u9 through u15. Ages are determined by a school year calendar from August 1 – July 31. An age chart is available at the Eastern Pennsylvania Youth Soccer website.
+<b>Playing Opportunities</b>: 
+
+GYSC provides teams for both boys and girls from u9 through u15. Ages are determined by a school year calendar from August 1 – July 31. An age chart is available at the Eastern Pennsylvania Youth Soccer website.
 
 In some situations, players may play up an age group, but players cannot play down an age group. The GYSC Board and the GYSC Technical Director will determine whether a player should play up an age group.
 
