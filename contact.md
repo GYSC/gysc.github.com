@@ -7,10 +7,10 @@ permalink: /contact/
 ---
 <b>Playing opportunities</b>: Mike Bishop at <a href="mailto:mbishop@gettysburg.edu">mbishop@gettysburg.edu</a>
 
-Registration: Lori Bridel at <a href="mailto:blbridel@embarqmail.com">blbridel@embarqmail.com</a>
+<b>Registration</b>: Lori Bridel at <a href="mailto:blbridel@embarqmail.com">blbridel@embarqmail.com</a>
 
-Financial: Kirk Martin at <a href="mailto:kmartin@helicopterapplicators.com">kmartin@helicopterapplicators.com</a>
+<b>Financial</b>: Kirk Martin at <a href="mailto:kmartin@helicopterapplicators.com">kmartin@helicopterapplicators.com</a>
 
-Other questions: Mike Bishop at <a href="mailto:mbishop@gettysburg.edu">mbishop@gettysburg.edu</a>
+<b>Other questions</b>: Mike Bishop at <a href="mailto:mbishop@gettysburg.edu">mbishop@gettysburg.edu</a>
 
-Mailing address: 
+<b>Mailing address</b>: 
