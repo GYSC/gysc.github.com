@@ -12,4 +12,4 @@ The Gettysburg Youth Soccer Club (GYSC) launched a new website on March 15, 2013
 
 "The new GYSC website is designed with our players, their families, and potential players in mind," said GYSC President Mike Bishop. "It is important that we provide a great web experience for anyone interested in GYSC."
 
-Additional information about the Gettysburg Youth Soccer Club (GYSC) can be found at <a href="http://www.gettysburgyouthsoccer.org">GYSC's website</a>
+Additional information about the Gettysburg Youth Soccer Club (GYSC) can be found at <a href="http://www.gettysburgyouthsoccer.org">www.gettysburgyouthsoccer.org</a>
