@@ -8,7 +8,7 @@ permalink: /headline/spring-training/index.html
 
 ####March 15, 2013
 
-The Gettysburg Youth Soccer Club (GYSC) announces its Spring 2013 training schedule.
+The Gettysburg Youth Soccer Club (GYSC) announces its Spring 2013 training schedule. Training starts the week of March 18th at James Gettys Elementary School.
 
 #####U11 Boys
 
