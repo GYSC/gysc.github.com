@@ -5,9 +5,9 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club,
 permalink: /headline/spring-training/index.html
 ---
-The Gettysburg Youth Soccer Club (GYSC) announces its Spring 2013 training schedule.
+####March 15, 2013
 
-####Spring 2013 Training Schedule
+The Gettysburg Youth Soccer Club (GYSC) announces its Spring 2013 training schedule.
 
 #####U11 Boys
 
