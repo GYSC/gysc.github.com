@@ -5,7 +5,7 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, teams
 permalink: /teams/
 ---
-###Teams
+The Spring 2013 training schedules are listed below.
 
 #####U11 Boys
 
