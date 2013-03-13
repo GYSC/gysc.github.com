@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GYSC announces Spring training schedule
+title: GYSC Announces Spring Training Schedule
 img: 
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club,
 permalink: /headline/spring-training/index.html
