@@ -48,3 +48,15 @@
 		</div>
 	</div>
 </div>
+
+{% if site.message %}
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span12">
+			<div class="hero-unit" id="message">
+				{{ site.message }}
+			</div>
+		</div>
+	</div>
+</div>
+{% endif %}
