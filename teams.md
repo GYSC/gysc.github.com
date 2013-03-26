@@ -9,7 +9,7 @@ permalink: /teams/
 
 Training: Monday and Thursday, 5:00 - 6:30
 
-<a href="http://www.cpysl.net/Schedule/GameList.asp?TeamId=2259&DivisionId=1435">League schedule</a>
+<a href="www.cpysl.net/Schedule/GameList.asp?TeamId=2259&DivisionId=1435">League schedule</a>
 
 #####U12 Boys
 
