@@ -5,11 +5,11 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, teams
 permalink: /teams/
 ---
-The Spring 2013 training schedules are listed below. Training starts the week of March 18th.
-
 #####U11 Boys
 
-Monday and Thursday, 5:00 - 6:30
+Training: Monday and Thursday, 5:00 - 6:30
+
+<a href="http://http://www.cpysl.net/Schedule/GameList.asp?TeamId=2259&DivisionId=1435">League schedule</a>
 
 #####U12 Boys
 
