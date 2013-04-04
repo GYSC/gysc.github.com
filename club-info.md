@@ -27,7 +27,7 @@ In some situations, players may play up an age group, but players cannot play do
 
 ####Leagues
 
-teams play in the Central Pennsylvania Youth Soccer League (CPYSL). Each season, half the games are played in Gettysburg and the other half are played around south central Pennsylvania – usually within 45 - 60  minutes of Gettysburg.
+Most GYSC teams play in the Central Pennsylvania Youth Soccer League (CPYSL). Each season, half the games are played in Gettysburg and the other half are played around south central Pennsylvania – usually within 45 - 60  minutes of Gettysburg.
 
 ####Tournaments 
 
