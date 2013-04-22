@@ -6,7 +6,7 @@ tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, tryouts
 permalink: /tryouts/
 ---
 ###2013 Tryout Information
-Tryouts will be held at James Gettys Elementary School, behind the Gettysburg Construction Building, the week of April 29th. Tryouts are conducted based on age group - there is ange chart at the bottom of this page.
+Tryouts will be held at James Gettys Elementary School, behind the Gettysburg Construction Building, the week of April 29th.
 
 ####Tryout Dates
 <ul>
@@ -17,7 +17,7 @@ Tryouts will be held at James Gettys Elementary School, behind the Gettysburg Co
 <li>Thursday May 2nd from 5:00 pm - 6:30 pm: Girls 8 - 9.</li>
 </ul>
 
-There is a $50 registration fee required at the tryout. The fee will be refunded if a player is not selected for a team.Each player should wear proper soccer attire, bring a ball and water, and must wear shin guards.
+There is a $50 registration fee required at the tryout. The fee will be refunded if a player is not selected for a team.Each player should wear proper soccer attire, bring a ball and water, and must wear shin guards. Upon arriving at tryouts, please go to the registration table to sign in.
 
 
 *2013/2014 Age Chart*
