@@ -19,7 +19,6 @@ Tryouts will be held at James Gettys Elementary School, behind the Gettysburg Co
 
 There is a $50 registration fee required at the tryout. The registration fee will be refunded if a player is not selected for a team.  Each player needs to wear proper soccer attire, including shin guards, and bring water and a ball. When arriving for tryouts, please go to the registration table to sign in.
 
-
 *2013/2014 Age Chart*
 
 <ul>
