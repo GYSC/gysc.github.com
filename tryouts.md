@@ -6,7 +6,15 @@ tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, tryouts
 permalink: /tryouts/
 ---
 ###2013 Tryout Information
-The Gettysburg Youth Soccer Club (GYSC) is always looking for potential players. GYSC holds an open tryout in April or May for players to join teams the following Fall. In addition, players can also attend regular training sessions during the season and fill open roster spots.
+Tryouts will be held at James Gettys Elementary School, behind the Gettysburg Construction Building, the week of April 29th.
+
+####Tryout Dates
+Monday April 29th from 5:00 pm - 6:30 pm: Boys U9, U10, U11, and U12.
+Monday April 29th from 6:30 pm - 8:00 pm: Boys U13 and U14.
+Tuesday April 30th from 5:00 pm - 6:30 pm: Girls U11 and U12.
+Tuesday April 30th from 6:30 pm - 8:00 pm: Girls U13 and U14.
+Thursday May 2nd from 5:00 pm - 6:30 pm: Girls U9 and U10.
+
 
 *2013/2014 Age Chart*
 
