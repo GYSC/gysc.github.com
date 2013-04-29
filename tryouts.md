@@ -8,7 +8,7 @@ permalink: /tryouts/
 ###2013 Tryout Information
 Tryouts will be held at James Gettys Elementary School, behind the Gettysburg Construction Building, the week of April 29th.
 
-####Tryout Dates
+####Tryout Dates (Tryouts for Monday, April 29th are rescheduled for Monday, May 6th).
 <ul>
 <li>Monday April 29th from 5:00 pm - 6:30 pm: Boys ages 8 - 11.</li>
 <li>Monday April 29th from 6:30 pm - 8:00 pm: Boys 12 - 13.</li>
