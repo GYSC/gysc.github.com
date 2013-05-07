@@ -7,7 +7,7 @@ permalink: /contact/
 ---
 ####Playing opportunities 
 
-Mike Bishop at <a href="mailto:mbishop@gettysburg.edu">mbishop@gettysburg.edu</a>
+James Brown at <a href="mailto:gettysburgyouthsoccer@gmail.com">gettysburgyouthsoccer@gmail.com</a>
 
 ####Registration 
 
