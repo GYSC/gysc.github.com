@@ -6,7 +6,7 @@ tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, tryouts
 permalink: /tryouts/
 ---
 ###2013 Tryout Information
-The Gettysburg Youth Soccer Club (GYSC) is always looking for kids to join teams. Below is an age chart for the Fall 2013/Spring 2014 season. For additional information about tryouts and other playing opportunities, please <a href="mailto:gettysburgyouthsoccer@gmail.com">gettysburgyouthsoccer@gmail.com</a>.
+The Gettysburg Youth Soccer Club (GYSC) is always looking for kids to join teams. Below is an age chart for the Fall 2013/Spring 2014 season. For additional information about tryouts and other playing opportunities, please contact: <a href="mailto:gettysburgyouthsoccer@gmail.com">gettysburgyouthsoccer@gmail.com</a>.
 
 *2013/2014 Age Chart*
 
