@@ -7,7 +7,7 @@ permalink: /registration/
 ---
 ###Registration Information
 
-This page includes information needed to register with GYSC for the Fall 2013/Spring 2014 season. If you have any questions, please email the GYSC Registrar, Lori Bridel, at:<a href="mailto:blbridel@embarqmail.com">blbridel@embarqmail.com</a> 
+This page includes information needed to register with GYSC for the Fall 2013/Spring 2014 season. If you have any questions, please email the GYSC Registrar, Lori Bridel, at: <a href="mailto:blbridel@embarqmail.com">blbridel@embarqmail.com</a> 
 
 ###Required Forms
 
