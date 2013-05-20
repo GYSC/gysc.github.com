@@ -19,7 +19,7 @@ Kirk Martin at <a href="mailto:kmartin@helicopterapplicators.com">kmartin@helico
 
 ####Other questions 
 
-Mike Bishop at <a href="mailto:mbishop@gettysburg.edu">mbishop@gettysburg.edu</a>
+Jeff Yingling at <a href="mailto:ying5@comcast.net">ying5@comcast.net</a>
 
 ####Mailing address
 
