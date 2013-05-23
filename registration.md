@@ -21,7 +21,9 @@ Please download, fill out and print all forms and mail them along with a picture
 <li>Copy of birth certificate. Only required for new players.</li>
 </ul>
 
-###Registration Requirements for Coaches
+__________________________________________________________________________________________________________________________
+
+###Registration Requirements for Coaches, Assistant Coaches, Team Managers, and Board Members
 
 <ul>
 <li>Risk Management Application: <a href="https://www.youthleaguesusa.com/epys/13-14/RiskManagement.html">Click Here</a></li>
