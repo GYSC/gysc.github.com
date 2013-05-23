@@ -22,7 +22,3 @@ Here is a checklist of what is required to register with GYSC for the Fall 2013/
 </ul>
 
 
-###Uniform Information
-
-<a href="https://www.dropbox.com/s/e0p9c1mjqz8i36a/Uniform_Order_2013.xlsx">Uniform Ordering Form</a>
-
