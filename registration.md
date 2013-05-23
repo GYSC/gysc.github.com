@@ -9,7 +9,7 @@ permalink: /registration/
 
 Please download, fill out and print all forms and mail them along with a picture and birth certificate (if a new player) to GYSC, PO Box 4563, Gettysburg, PA 17325. Instead of mailing your registration package you can drop it off at the practice fields at James Gettys Elementary School on Wednesday, June 12th or Thursday June 13th from 5:00 pm - 7:00 pm. 
 
-###Registration Requirements for Players
+####Registration Requirements for Players
 
 <ul>
 <li>Online Player Registration (EPYSA online system): <a href="https://www.youthleaguesusa.com/epys/13-14/0117/008/Welcome.html">Click Here</a></li>
@@ -23,7 +23,11 @@ Please download, fill out and print all forms and mail them along with a picture
 
 __________________________________________________________________________________________________________________________
 
-###Registration Requirements for Coaches, Assistant Coaches, Team Managers, and Board Members
+####Uniform Information
+
+If you need to order 
+
+####Registration Requirements for Coaches, Assistant Coaches, Team Managers, and Board Members
 
 <ul>
 <li>Risk Management Application: <a href="https://www.youthleaguesusa.com/epys/13-14/RiskManagement.html">Click Here</a></li>
