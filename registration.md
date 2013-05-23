@@ -19,6 +19,8 @@ Here is a checklist of what is required to register with GYSC for the Fall 2013/
 <li><a href="https://www.dropbox.com/s/3si4g9vn0x68eik/GYSC%20Player-Parent%20Agreement.pdf">Player/Parent Agreement Form</a></li>
 <li><a href="https://www.dropbox.com/s/7qfdk24zfej4bak/Medical_Release1.pdf">Medical Release Form</a></li>
 <li><a href="https://www.dropbox.com/s/fs5ugznij8v3asa/GYSC%20Payment%20Voucher.pdf">Payment Voucher Form</a></li>
+<li>Picture of player. This can be a head shot.</li>
+<li>Copy of birth certificate. Only required for new players.</li>
 </ul>
 
 
