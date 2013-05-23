@@ -24,7 +24,7 @@ Please download, fill out and print all forms and mail them along with a picture
 ###Registration Requirements for Coaches
 
 <ul>
-<li> Risk Management Application <a href="https://www.youthleaguesusa.com/epys/13-14/RiskManagement.html"<Click Here</a></li>
+<li>Risk Management Application: <a href="https://www.youthleaguesusa.com/epys/13-14/RiskManagement.html">Click Here</a></li>
 </ul>
 
 
