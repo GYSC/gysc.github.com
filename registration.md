@@ -5,11 +5,13 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, teams, registration
 permalink: /registration/
 ---
-###Registration Information
+###Registration Information for the Fall 2013/Spring 2014 Season
 
-This page includes information needed to register with GYSC for the Fall 2013/Spring 2014 season. If you have any questions, please email the GYSC Registrar, Lori Bridel, at: <a href="mailto:blbridel@embarqmail.com">blbridel@embarqmail.com</a> 
+Registration forms need to be received by June 15th. You can drop your regsitration off at the practice fields at James Gettys Elementary School on Wednesday, June 12th or Thursday June 13th from 5:00 pm - 7:00 pm. Otherwise, you can mail your registration to GYSC, PO Box 4563, Gettysburg, PA 17325.
 
-###Required Forms
+Here is a checklist of what is required to register with GYSC for the Fall 2013/Spring 2014 season.
+
+###Required Information
 
 <a href="https://www.dropbox.com/s/7qfdk24zfej4bak/Medical_Release1.pdf">Medical Release Form</a>
 
