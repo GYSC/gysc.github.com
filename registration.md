@@ -13,11 +13,13 @@ Here is a checklist of what is required to register with GYSC for the Fall 2013/
 
 ###Required Information
 
-<a href="https://www.dropbox.com/s/7qfdk24zfej4bak/Medical_Release1.pdf">Medical Release Form</a>
+<u/>
+<li><a href="https://www.youthleaguesusa.com/epys/13-14/0117/008/Welcome.html">Player Registration</a></li>
+<li><a href="https://www.dropbox.com/s/8xz3x9al7lz5vcb/Code%20of%20Conduct-1.pdf">Code of Conduct Form</a><li>
+<li><a href="https://www.dropbox.com/s/3si4g9vn0x68eik/GYSC%20Player-Parent%20Agreement.pdf">Player/Parent Agreement Form</a><li>
+<li><a href="https://www.dropbox.com/s/7qfdk24zfej4bak/Medical_Release1.pdf">Medical Release Form</a></li>
 
-<a href="https://www.dropbox.com/s/jtn4jhqrw0dmyca/Player_Status1.pdf">Player Status Form</a>
 
-<a href="https://www.dropbox.com/s/f4r13k6o4mtg6lu/Participant%20Registration6.pdf">Participant Registration Form</a>
 
 ###Uniform Information
 
