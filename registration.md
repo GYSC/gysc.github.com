@@ -25,7 +25,9 @@ ________________________________________________________________________________
 
 ####Uniform Information
 
-If you need to order 
+If you need to order uniforms, please complete the uniform ordering form and e-mail it to [who get this?]
+
+__________________________________________________________________________________________________________________________
 
 ####Registration Requirements for Coaches, Assistant Coaches, Team Managers, and Board Members
 
