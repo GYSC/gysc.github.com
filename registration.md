@@ -7,7 +7,10 @@ permalink: /registration/
 ---
 ###Registration Due June 15th for the Fall 2013/Spring 2014 Season
 
-Please download, fill out and print all forms and mail them along with a picture and birth certificate (if a new player) to GYSC, PO Box 4563, Gettysburg, PA 17325. Instead of mailing your registration package you can drop it off at the practice fields at James Gettys Elementary School on Wednesday, June 12th or Thursday June 13th from 5:00 pm - 7:00 pm. 
+Please download, fill out and print all forms. Include the forms along with a picture and birth certificate (if a new player) and either:
+
+1) Mail them to GYSC, PO Box 4563, Gettysburg, PA 17325; or 
+2) Drop them off at the practice fields at James Gettys Elementary School on Wednesday, June 12th or Thursday June 13th from 5:00 pm - 7:00 pm. 
 
 ####Registration Requirements for Players
 
