@@ -14,7 +14,7 @@ Please download, fill out and print all forms and mail them along with a picture
 <ul>
 <li>Online Player Registration (EPYSA online system): <a href="https://www.youthleaguesusa.com/epys/13-14/0117/008/Welcome.html">Click Here</a></li>
 <li>Code of Conduct Form: <a href="https://www.dropbox.com/s/8xz3x9al7lz5vcb/Code%20of%20Conduct-1.pdf">Download</a></li>
-<li>Player/Parent Agreement Form: <a href="https://www.dropbox.com/s/3si4g9vn0x68eik/GYSC%20Player-Parent%20Agreement.pdf">Download</a></li>
+<li>Player/Parent Agreement and Payment Form: <a href="https://www.dropbox.com/s/v2arm3qxtf964l1/GYSC%20Player-Parent%20Agreement-1.pdf">Download</a></li>
 <li>Medical Release Form: <a href="https://www.dropbox.com/s/7qfdk24zfej4bak/Medical_Release1.pdf">Download</a></li>
 </li>
 <li>Picture of player. This can be a head shot. Please write the name of the player on the back.</li>
