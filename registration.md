@@ -13,6 +13,8 @@ Please download, fill out and print all forms. Include the forms along with a pi
 
 2) Drop them off at the practice fields at James Gettys Elementary School on Wednesday, June 12th or Thursday June 13th from 5:00 pm - 7:00 pm. 
 
+__________________________________________________________________________________________________________________________
+
 ####Registration Requirements for Players
 
 <ul>
