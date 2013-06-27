@@ -5,30 +5,46 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, teams
 permalink: /teams/
 ---
+These are the teams for the Fall 2013 season. Information for each team, including training times and game schedules will be posted once they are finalized.
+
+#####U9 Boys
+
+Training:
+
+League schedule:
+
 #####U11 Boys
 
-Training: Monday and Thursday, 5:00 - 6:30
+Training:
 
-<a href="http://www.cpysl.net/Schedule/GameList.asp?TeamId=2259&DivisionId=1435">League schedule</a>
+League schedule:
 
 #####U12 Boys
 
-Monday and Thursday, 6:30 - 8:00
+Training:
 
-<a href="http://www.cpysl.net/Schedule/GameList.asp?TeamId=2260&DivisionId=1437">League schedule</a>
+League schedule:
 
-#####U9 Girls
+#####U13 Boys
 
-Tuesday and Thursday, 5:00 - 6:30
+Training:
 
-<a href="http://www.cpysl.net/Schedule/GameList.asp?TeamId=2451&DivisionId=1396">League schedule</a>
+League schedule:
 
-#####U11 Girls
+#####U10 Girls
 
-Tuesday and Thursday, 5:00 - 6:30
+Training:
 
-<a href="http://www.cpysl.net/Schedule/GameList.asp?TeamId=2098&DivisionId=1405">League schedule</a>
+League schedule
 
-#####U13 Girls
+#####U12 Girls
 
-Tuesday and Thursday, 6:30 - 8:00
+Training:
+
+League schedule:
+
+#####U12 Girls
+
+Training:
+
+League Schedule:
