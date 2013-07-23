@@ -5,46 +5,46 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, teams
 permalink: /teams/
 ---
-These are the teams for the Fall 2013 season. Information for each team, including training times and game schedules will be posted once they are finalized.
+###Fall 2013 Teams 
 
 #####U9 Boys
 
-Training:
+Training: Monday and Wednesday from 5:00 - 6:30
 
 League schedule:
 
 #####U11 Boys
 
-Training:
+Training: Monday and Wednesday from 6:30 - 8:00
 
 League schedule:
 
 #####U12 Boys
 
-Training:
+Training: Monday and Thursday from 5:00 - 6:30
 
 League schedule:
 
 #####U13 Boys
 
-Training:
+Training: Monday, Wednesday and Friday from 6:30 - 8:00
 
 League schedule:
 
 #####U10 Girls
 
-Training:
+Training: Tuesday and Thursday from 5:00 - 6:30
 
 League schedule
 
-#####U12 Girls
+#####U12 Girls (Firecrackers)
 
-Training:
+Training: Tuesday and Thursday from 6:30 - 8:00
 
 League schedule:
 
-#####U12 Girls
+#####U12 Girls (Canners)
 
-Training:
+Training: Tuesday and Thursday from 6:30 - 8:00
 
 League Schedule:
