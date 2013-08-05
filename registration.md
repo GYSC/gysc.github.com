@@ -19,9 +19,9 @@ ________________________________________________________________________________
 
 <ul>
 <li>Online Player Registration (EPYSA online system): <a href="https://www.youthleaguesusa.com/epys/13-14/0117/008/Welcome.html">Click Here</a></li>
-<li>Code of Conduct Form: <a href="https://www.dropbox.com/s/8xz3x9al7lz5vcb/Code%20of%20Conduct-1.pdf">Download</a></li>
-<li>Player/Parent Agreement and Payment Form: <a href="https://www.dropbox.com/s/v2arm3qxtf964l1/GYSC%20Player-Parent%20Agreement-1.pdf">Download</a></li>
-<li>Medical Release Form: <a href="https://www.dropbox.com/s/7qfdk24zfej4bak/Medical_Release1.pdf">Download</a></li>
+<li>Code of Conduct Form: <a href="https://www.dropbox.com/s/vu3366ll3d6w9dd/Code%20of%20Conduct-1.pdf">Download</a></li>
+<li>Player/Parent Agreement and Payment Form: <a href="https://www.dropbox.com/s/x2jj0f1n6f6ewg1/GYSC%20Player-Parent%20Agreement-1.pdf">Download</a></li>
+<li>Medical Release Form: <a href="https://www.dropbox.com/s/745ollo3ejyfvwr/Medical_Release1.pdf">Download</a></li>
 </li>
 <li>Picture of player. This can be a head shot. Please write the name of the player on the back.</li>
 <li>Copy of birth certificate. Only required for new players.</li>
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 If you need to order uniforms, please complete the uniform ordering form and turn it in at the same time as the player registration materials.
 
 <ul>
-<li>Uniform Ordering Form: <a href="https://www.dropbox.com/s/tshxot7f6wa6va0/uniformorder2013.pdf">Click Here</a></li>
+<li>Uniform Ordering Form: <a href="https://www.dropbox.com/s/c6cfky88vhzy3sg/uniformorder2013.pdf">Click Here</a></li>
 </ul>
 
 __________________________________________________________________________________________________________________________
