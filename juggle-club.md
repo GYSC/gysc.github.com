@@ -32,6 +32,6 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <td>5</td><td>james<br>brown</td>
 </tr>
 <tr>
-<td>5</td><td>james<br>brown</td>
+<td>5</td><td></td>
 </tr>
 </table>
