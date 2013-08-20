@@ -27,7 +27,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 
 <table class="table">
 <tr>
-<th>Benchmark</th><th>Name</th>
+<th>Number of Juggles</th><th>Name</th>
 </tr>
 <tr>
 <td>5</td><td>player 1<br>player 2</td>
@@ -57,6 +57,6 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <td>200</td><td></td>
 </tr>
 <tr>
-<td>205</td><td></td>
+<td>250</td><td></td>
 </tr>
 </table>
