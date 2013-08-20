@@ -17,7 +17,12 @@ Players will receive a color-specific bracelet with the number of juggles on it 
 
 The specific benchmarks are provided below. The first five benchmarks (5, 15, 25, 35, and 50 juggles) must include a majority of the juggles with your feet. All benchmarks greater than 50 must include all juggles with your feet.
 
+### Videos of some of the best soccer players juggling
+
 [Ronaldinho](http://www.youtube.com/watch?v=zpze2MJH7OA)
+[Cristiano Ronaldo](http://www.youtube.com/watch?v=akEr5ph3k3s)
+[Lionel Messi](http://www.youtube.com/watch?v=itHjyFfcb2s)
+[Indie Cowie - Freestyle](http://www.youtube.com/watch?v=c6zoHIYdFWE&feature=c4-overview&list=UUxMS8TfgJs6gerCuALwmFTQ)
 
 ###GYSC Juggle Club sponsor
 
