@@ -41,6 +41,6 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <td>200</td>
 </tr>
 <tr>
-<td></td>
+<td>Example</td>
 </tr>
 </table>
