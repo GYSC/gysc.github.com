@@ -26,9 +26,18 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 
 <table border="1">
 <tr>
-<th>Bencmark</th><th>Name</th>
+<th>Benchmark</th><th>Name</th>
 </tr>
 <tr>
 <td>5</td><td></td>
+<td>15</td><td></td>
+<td>25</td><td></td>
+<td>35</td><td></td>
+<td>50</td><td></td>
+<td>75</td><td></td>
+<td>100</td><td></td>
+<td>150</td><td></td>
+<td>175</td><td></td>
+<td>200</td><td></td>
 </tr>
 </table>
