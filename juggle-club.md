@@ -17,7 +17,7 @@ Players will receive a color-specific bracelet for each benchmark that they meet
 
 The specific benchmarks are provided below. The first five benchmarks (5, 15, 25, 35, and 50 juggles) must include a majority of the juggles with your feet. All benchmarks greater than 50 must include all juggles with your feet.
 
-###GYSC Juggle Club Sponsor
+###GYSC Juggle Club sponsor
 
 We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship of the Juggle Club.
 
@@ -25,14 +25,14 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 
 
 ###Benchmark         Name
-5
-15
-25
-35
-50
-75
-100
-150
-200
-250
-300
+- 5                  - example
+- 15
+- 25
+- 35
+- 50
+- 75
+- 100
+- 150
+- 200
+- 250
+- 300
