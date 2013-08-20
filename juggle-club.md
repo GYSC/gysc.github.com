@@ -24,15 +24,11 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <a href="http://www.bluegraybargrill.com/"><img src="http://www.bluegraybargrill.com/bluegray/wp-content/uploads/2012/06/bgbg-gry5.png" alt="Logo"></a>
 
 
-###Benchmark         Name
-- 5                  - example
-- 15
-- 25
-- 35
-- 50
-- 75
-- 100
-- 150
-- 200
-- 250
-- 300
+<table border="1">
+<tr>
+<th>Bencmark</th><th>Name</th>
+</tr>
+<tr>
+<td>5</td><td></td>
+</tr>
+</table>
