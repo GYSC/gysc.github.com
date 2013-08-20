@@ -24,14 +24,39 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <a href="http://www.bluegraybargrill.com/"><img src="http://www.bluegraybargrill.com/bluegray/wp-content/uploads/2012/06/bgbg-gry5.png" alt="Logo"></a>
 
 
+
 <table class="table">
 <tr>
 <th>Benchmark</th><th>Name</th>
 </tr>
 <tr>
-<td>5</td><td>james<br>brown</td>
+<td>5</td><td>player 1<br>player 2</td>
 </tr>
 <tr>
-<td>5</td><td></td>
+<td>15</td><td></td>
+</tr>
+<tr>
+<td>25</td><td></td>
+</tr>
+<tr>
+<td>35</td><td></td>
+</tr>
+<tr>
+<td>50</td><td></td>
+</tr>
+<tr>
+<td>75</td><td></td>
+</tr>
+<tr>
+<td>100</td><td></td>
+</tr>
+<tr>
+<td>150</td><td></td>
+</tr>
+<tr>
+<td>200</td><td></td>
+</tr>
+<tr>
+<td>205</td><td></td>
 </tr>
 </table>
