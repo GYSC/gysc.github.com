@@ -13,9 +13,11 @@ Juggling provides a solid foundation for creating a great touch on the ball. The
 
 Players will juggle on their own and when they feel they can reach a benchmark, they will juggle in front of a GYSC coach or provide a video of them juggling to a GYSC coach. 
 
-Players will receive a color-specific bracelet for each benchmark that they meet. In addition, the player on each team with the highest number of juggles at the end of the year will receive additional prizes.
+Players will receive a color-specific bracelet with the number of juggles on it for each benchmark that they meet. The more benchmarks, the more bracelets. In addition, the player on each team with the highest number of juggles at the end of the year will receive additional prizes.
 
 The specific benchmarks are provided below. The first five benchmarks (5, 15, 25, 35, and 50 juggles) must include a majority of the juggles with your feet. All benchmarks greater than 50 must include all juggles with your feet.
+
+[Ronaldinho](http://www.youtube.com/watch?v=zpze2MJH7OA)
 
 ###GYSC Juggle Club sponsor
 
