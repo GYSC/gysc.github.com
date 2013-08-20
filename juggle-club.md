@@ -23,6 +23,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 
 <a href="http://www.bluegraybargrill.com/"><img src="http://www.bluegraybargrill.com/bluegray/wp-content/uploads/2012/06/bgbg-gry5.png" alt="Logo"></a>
 
+
 <table border="1">
 <tr>
 <th>Benchmark</th>
@@ -30,10 +31,16 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 </tr>
 <tr>
 <td>5</td>
-<td></td>
+<td>15</td>
+<td>25</td>
+<td>35</td>
+<td>50</td>
+<td>75</td>
+<td>100</td>
+<td>150</td>
+<td>200</td>
 </tr>
 <tr>
-<td>row 2, cell 1</td>
-<td>row 2, cell 2</td>
+<td></td>
 </tr>
 </table>
