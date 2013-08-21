@@ -28,7 +28,8 @@ The specific benchmarks are provided below. The first five benchmarks (5, 15, 25
 
 We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship of the Juggle Club.
 
-<a href="http://www.bluegraybargrill.com/"><img src="http://www.bluegraybargrill.com/bluegray/wp-content/uploads/2012/06/bgbg-gry5.png" alt="Logo"></a>
+<a href="http://www.bluegraybargrill.com/"><img src="http://www.bluegraybargrill.com/bluegray/wp-content/uploads/2012/06/bgbg-gry5.png" alt="Logo"></a>  
+
 
 
 
@@ -37,7 +38,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <th>Number of Juggles</th><th>Name</th>
 </tr>
 <tr>
-<td>5</td><td>player 1<br>player 2</td>
+<td>5</td><td>J. Brown, U9B</td>
 </tr>
 <tr>
 <td>15</td><td></td>
