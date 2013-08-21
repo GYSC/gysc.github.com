@@ -23,7 +23,8 @@ The specific benchmarks are provided below. The first five benchmarks (5, 15, 25
 - [Cristiano Ronaldo](http://www.youtube.com/watch?v=akEr5ph3k3s)
 - [Lionel Messi](http://www.youtube.com/watch?v=itHjyFfcb2s)
 - [Indie Cowie - Freestyle](http://www.youtube.com/watch?v=c6zoHIYdFWE&feature=c4-overview&list=UUxMS8TfgJs6gerCuALwmFTQ)
-
+<br>
+<br>
 ###GYSC Juggle Club sponsor
 
 We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship of the Juggle Club.
