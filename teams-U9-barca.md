@@ -22,5 +22,5 @@ permalink: /teams-U9-barca/
 
 ### Contact Information
 
-The best way to reach coach James is by email <a href="mailto:jkbrown76@msn.com">jkbrown76@msn.com</a> or by texting/calling at 240.578.0646.
+The best way to reach coach James is by email at <a href="mailto:jkbrown76@msn.com">jkbrown76@msn.com</a> or by texting/calling at 240.578.0646.
 
