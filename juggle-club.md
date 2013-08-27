@@ -41,16 +41,16 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <td>5</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
 </tr>
 <tr>
-<td>15</td><td>J. Brown, U9B</td>
+<td>15</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
 </tr>
 <tr>
-<td>25</td><td>J. Brown, U9B</td>
+<td>25</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
 </tr>
 <tr>
-<td>35</td><td>J. Brown, U9B</td>
+<td>35</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
 </tr>
 <tr>
-<td>50</td><td></td>
+<td>50</td><td>H. Martin, U13B</td>
 </tr>
 <tr>
 <td>75</td><td></td>
