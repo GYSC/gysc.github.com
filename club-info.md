@@ -35,9 +35,13 @@ Each GYSC team participates in two tournaments in Gettysburg. One tournament is 
 
 ####Facilities
 
-GYSC teams train mostly at James Gettys Elementary School, located in Gettysburg. Other locations around Gettysburg, PA are also used. In the Winter, GYSC uses indoor facilities in Gettysburg to train.
-
-Home games for GYSC are also played at James Gettys Elementary School.
+GYSC teams train mostly at James Gettys Elementary School located in Gettysburg. Other locations around Gettysburg, PA are also used. In the Winter, GYSC uses indoor facilities in Gettysburg to train.
 
 The address for James Gettys Elementary School is: 898 Biglerville Road, Gettysburg, PA 17325.
+
+####Home Games
+
+U9 - U12 home games are played at Straban Park. The address is 100 Smith Road, Gettysburg, PA 17325. Straban Park is located off of Route 30 near the Gateway Theater.
+
+U13 home games are played at James Gettys Elementary School. The address for James Gettys Elementary School is: 898 Biglerville Road, Gettysburg, PA 17325.
 
