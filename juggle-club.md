@@ -38,7 +38,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <th>Number of Juggles</th><th>Name</th>
 </tr>
 <tr>
-<td>5</td><td>J. Brown, U9B</td>
+<td>5</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
 </tr>
 <tr>
 <td>15</td><td>J. Brown, U9B</td>
