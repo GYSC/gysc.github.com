@@ -38,7 +38,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <th>Number of Juggles</th><th>Name</th>
 </tr>
 <tr>
-<td>5</td><td>J. Brown, U9B<br>H. Martin, U13B<br>F. LaBarbera, U9B<br>T. Daron, U9B<br>I. Nagy, U9B<br>A. Wood, U9B<br>W. Oaster, U9B<br>N. Nordberg, U9B</td>
+<td>5</td><td>J. Brown, U9B<br>H. Martin, U13B<br>F. LaBarbera, U9B<br>T. Daron, U9B<br>I. Nagy, U9B<br>A. Wood, U9B<br>W. Oaster, U9B<br>N. Nordberg, U9B<br>W. Kittelberger, U9B</td>
 </tr>
 <tr>
 <td>15</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
