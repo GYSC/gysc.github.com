@@ -38,7 +38,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <th>Number of Juggles</th><th>Name</th
 </tr>
 <tr>
-<td>5</td><td>J. Brown, U9B<br>F. LaBarbera, U9B<br>T. Daron, U9B<br>I. Nagy, U9B<br>A. Wood, U9B<br>W. Oaster, U9B<br>N. Nordberg, U9B<br>W. Kittelberger, U9B<br>S. Shelleman, U10G<br>I. Witt, U10G<br>J. Schulteis, U10G<br>B. Rodgers, U10G<br>R. Gourley, U10G<br>A. Oaster, U10G<br>B. Scneider, U11B<br>E. Ball, U11B<br>H. Crawford, U11B<br>A. Aumen, U11B<br>M. Wunsch, U11B<br>K. Oussoren, U11B<br>N. Sandoe, U11B<br>J.Regentin, U11B</td><td>J.Brown, U9B<br>H. Martin, U13B</td>
+<td>5</td><td>F. LaBarbera, U9B<br>T. Daron, U9B<br>I. Nagy, U9B<br>A. Wood, U9B<br>W. Oaster, U9B<br>N. Nordberg, U9B<br>W. Kittelberger, U9B<br>S. Shelleman, U10G<br>I. Witt, U10G<br>J. Schulteis, U10G<br>B. Rodgers, U10G<br>R. Gourley, U10G<br>A. Oaster, U10G<br>B. Scneider, U11B<br>E. Ball, U11B<br>H. Crawford, U11B<br>A. Aumen, U11B<br>M. Wunsch, U11B<br>K. Oussoren, U11B<br>N. Sandoe, U11B<br>J.Regentin, U11B</td><td>Ev. Keyser, U12B<br>Et. Keyser, U12B<br>A. Cole, U12B<br>B. Lawson, U12B<br>J. Palmer, U12B<br>C. Wagner, U12B<br>D. Heinzelmann, U12B<br>H. Woodward, U12G</td>
 </tr>
 <tr>
 <td>15</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
