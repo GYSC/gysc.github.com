@@ -38,7 +38,6 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
                 <tr>
                     <th>Number of Juggles</th>
                     <th>Name</th>
-                    <th>Name</th>
                 </tr>
                 
             </thead>
