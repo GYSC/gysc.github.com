@@ -43,7 +43,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
             </thead>
 
 <tr>
-<td>5</td><td>F. LaBarbera, U9B<br>T. Daron, U9B<br>I. Nagy, U9B<br>A. Wood, U9B<br>W. Oaster, U9B<br>N. Nordberg, U9B<br>W. Kittelberger, U9B<br>S. Shelleman, U10G<br>I. Witt, U10G<br>J. Schulteis, U10G<br>B. Rodgers, U10G<br>R. Gourley, U10G<br>A. Oaster, U10G<br>B. Scneider, U11B<br>E. Ball, U11B<br>H. Crawford, U11B<br>A. Aumen, U11B<br>M. Wunsch, U11B<br>K. Oussoren, U11B<br>N. Sandoe, U11B<br>J.Regentin, U11B<br>Ev. Keyser, U12B<br>Et. Keyser, U12B<br>A. Cole, U12B<br>B. Lawson, U12B<br>J. Palmer, U12B<br>C. Wagner, U12B<br>D. Heinzelmann, U12B<br>H. Woodward, U12G<br>J. Hernandez, U13B<br>S. Sijapati, U13B<br>T. Roysdon, U13B</td>
+<td>5</td><td>F. LaBarbera, U9B<br>T. Daron, U9B<br>I. Nagy, U9B<br>A. Wood, U9B<br>W. Oaster, U9B<br>N. Nordberg, U9B<br>W. Kittelberger, U9B<br>S. Shelleman, U10G<br>I. Witt, U10G<br>J. Schulteis, U10G<br>B. Rodgers, U10G<br>R. Gourley, U10G<br>A. Oaster, U10G<br>B. Scneider, U11B<br>E. Ball, U11B<br>H. Crawford, U11B<br>A. Aumen, U11B<br>M. Wunsch, U11B<br>K. Oussoren, U11B<br>N. Sandoe, U11B<br>J.Regentin, U11B<br>Ev. Keyser, U12B<br>Et. Keyser, U12B<br>A. Cole, U12B<br>B. Lawson, U12B<br>J. Palmer, U12B<br>C. Wagner, U12B<br>D. Heinzelmann, U12B<br>H. Woodward, U12G<br>A. Rodgers, U12G<br>M. Jumper, U12G<br>J. Haines, U12G<br>J. Hernandez, U13B<br>S. Sijapati, U13B<br>T. Roysdon, U13B</td>
 </tr>
 <tr>
 <td>15</td><td>N. Matteson, U12B<br>A. Alvarez, U13B<br>D. Bishop, U13B<br>E. Wood, U13B<br>H. Soto, U13B<br>J. Santoyo, U13B<br>S. Cervantes, U13B</td>
@@ -55,7 +55,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <td>35</td><td>J. Sanuam, U12B<br>A. Garcia, U13B<br>D. James, U13B</td>
 </tr>
 <tr>
-<td>50</td><td>J. Brown, U9B<br>L. Christianson, U12B</td>
+<td>50</td><td>L. Christianson, U12B</td>
 </tr>
 <tr>
 <td>75</td><td>C. Daron, U13B<br>L. Carbaugh, U13B</td>
@@ -64,7 +64,7 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <td>100</td><td>H. Martin, U13B</td>
 </tr>
 <tr>
-<td>150</td><td></td>
+<td>150</td><td>J. Brown, U9B</td>
 </tr>
 <tr>
 <td>200</td><td></td>
