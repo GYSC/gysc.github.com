@@ -61,10 +61,10 @@ We would like to thank the Blue & Gray Bar/Grill for their generous sponsorship 
 <td>75</td><td>C. Daron, U13B<br>L. Carbaugh, U13B</td>
 </tr>
 <tr>
-<td>100</td><td>H. Martin, U13B</td>
+<td>100</td><td></td>
 </tr>
 <tr>
-<td>150</td><td>J. Brown, U9B</td>
+<td>150</td><td>J. Brown, U9B<br>H. Martin, U13B</td>
 </tr>
 <tr>
 <td>200</td><td></td>
