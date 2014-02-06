@@ -7,7 +7,7 @@ permalink: /contact/
 ---
 ####Playing opportunities 
 
-James Brown at <a href="mailto:gettysburgyouthsoccer@gmail.com">gettysburgyouthsoccer@gmail.com</a>
+Jeff Yingling at <a href="mailto:ying5@comcast.net">ying5@comcast.net</a>
 
 ####Registration 
 
