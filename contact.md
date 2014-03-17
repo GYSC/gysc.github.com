@@ -11,7 +11,7 @@ Jeff Yingling at <a href="mailto:ying5@comcast.net">ying5@comcast.net</a>
 
 ####Registration 
 
-Lori Bridel at <a href="mailto:blbridel@embarqmail.com">blbridel@embarqmail.com</a>
+Mike Floreck at <a href="mailto:gyscregistrar@gmail.com">gyscregistrar@gmail.com</a>
 
 ####Financial 
 
