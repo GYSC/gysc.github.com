@@ -9,7 +9,7 @@ The Gettysburg Youth Soccer Club (GYSC) provides soccer training and playing opp
 
 ####Playing Opportunities 
 
-GYSC provides teams for both boys and girls from U9 through U14Ages are determined by a school year calendar from August 1 – July 31.
+GYSC provides teams for both boys and girls from U9 through U14. Ages are determined by a school year calendar from August 1 – July 31.
 
 In some situations, players may play up an age group, but players cannot play down an age group. The GYSC Board and the GYSC Technical Director will determine whether a player should play up an age group.
 
