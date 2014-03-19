@@ -13,16 +13,16 @@ GYSC provides teams for both boys and girls from u9 through u15. Ages are determ
 
 In some situations, players may play up an age group, but players cannot play down an age group. The GYSC Board and the GYSC Technical Director will determine whether a player should play up an age group.
 
-*2013/2014 Age Chart*
+
+*2014/2015 Age Chart*
 
 <ul>
-<li>U9: 8/1/04 - 7/31/06</li>
-<li>U10: 8/1/03 - 7/31/04</li>
-<li>U11: 8/1/02 - 7/31/03</li>
-<li>U12: 8/1/01 - 7/31/02</li>
-<li>U13: 8/1/00 - 7/31/01</li>
-<li>U14: 8/1/99 - 7/31/00</li>
-<li>U15: 8/1/98 - 7/31/99</li>
+<li>U9:  8/1/05 - 7/31/06</li>
+<li>U10: 8/1/04 - 7/31/05</li>
+<li>U11: 8/1/03 - 7/31/04</li>
+<li>U12: 8/1/02 - 7/31/03</li>
+<li>U13: 8/1/01 - 7/31/02</li>
+<li>U14: 8/1/00 - 7/31/01</li>
 </ul>
 
 ####Leagues
