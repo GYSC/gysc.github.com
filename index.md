@@ -15,7 +15,9 @@ Schedules for all GYSC teams are available now available. Take a look at the [Te
 
 #### Tryouts for Fall 2014/Spring 2015 Announced
 Tryouts will be held May 12th - May 16th. Additional information will be made available at the [Tryouts page](http://gettysburgyouthsoccer.org/tryouts/) soon.
-
+<br>
+<br>
+<br>
 
 ###Sponsors
 
