@@ -11,7 +11,7 @@ permalink: /teams/
 
 Training: Monday and Wednesday from 5:00 - 6:30
 
-League schedule
+[League schedule](http://www.cpysl.net/Schedule/GameList.asp?DivisionId=1662&DivisionGender=M&DivisionAge=U09&RecNo=1)
 
 #####U11 Boys
 
