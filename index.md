@@ -11,7 +11,7 @@ The Gettysburg Youth Soccer Club (GYSC) provides soccer training and playing opp
 There will be eight goalkeeper sessions on Tuesdays. 5:30-6:30 pm for U12 and U13 and 6:30-7:30 pm for U9-U11. Contact your coach if you are interested in the training.
 
 #### Spring Schedules Announced
-Schedules for all GYSC teams are available now available. Take a look at the [Teams page](http://gettysburgyouthsoccer.org/teams/) for the schedules.
+Schedules for all GYSC teams are now available. Take a look at the [Teams page](http://gettysburgyouthsoccer.org/teams/) for the schedules.
 
 #### Tryouts for Fall 2014/Spring 2015 Announced
 Tryouts will be held May 12th - May 16th. Additional information will be made available at the [Tryouts page](http://gettysburgyouthsoccer.org/tryouts/) soon.
