@@ -5,15 +5,6 @@ img:
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, teams, registration
 permalink: /registration/
 ---
-###Registration Due June 15th for the Fall 2013/Spring 2014 Season
-
-Please download, fill out and print all forms. Include the forms along with a picture and birth certificate (if a new player) and either:
-
-1) Mail them to GYSC, PO Box 4563, Gettysburg, PA 17325; or 
-
-2) Drop them off at the practice fields at James Gettys Elementary School on Thursday June 13th from 5:00 pm - 7:00 pm. 
-
-__________________________________________________________________________________________________________________________
 
 ####Registration Requirements for Players
 
@@ -23,6 +14,7 @@ ________________________________________________________________________________
 <li>Player/Parent Agreement and Payment Form: <a href="https://www.dropbox.com/s/x2jj0f1n6f6ewg1/GYSC%20Player-Parent%20Agreement-1.pdf">Download</a></li>
 <li>Medical Release Form: <a href="https://www.dropbox.com/s/745ollo3ejyfvwr/Medical_Release1.pdf">Download</a></li>
 </li>
+<li>Player Status Form (PS-1): <a href="https://www.dropbox.com/s/sg57dr8u3pgx06x/Player_Status1.pdf">Click Here</a></li>
 <li>Picture of player. This can be a head shot. Please write the name of the player on the back.</li>
 <li>Copy of birth certificate. Only required for new players.</li>
 </ul>
