@@ -28,7 +28,6 @@ If you need to order uniforms, please complete the uniform ordering form and tur
 <ul>
 <li>Uniform Ordering Form: <a href="https://www.dropbox.com/s/c6cfky88vhzy3sg/uniformorder2013.pdf">Click Here</a></li>
 </ul>
-
 __________________________________________________________________________________________________________________________
 
 ####Registration Requirements for Coaches, Assistant Coaches, Team Managers, and Board Members
