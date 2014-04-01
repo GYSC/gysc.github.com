@@ -7,7 +7,7 @@ tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, training, p
 The Gettysburg Youth Soccer Club (GYSC) provides soccer training and playing opportunities for both boys and girls in the Gettysburg, Pennsylvania and surrounding areas of south central Pennsylvania. The GYSC coaching staff includes professional trainers as well as qualified non-professional coaches – all with the aim towards providing amazing opportunities for kids to enjoy the “beautiful game.”  
 <br>
 
-#### Goalkeeper Training Starts Tuesday, April 1st
+#### Goalkeeper Training Starts Tuesday, April 8th
 There will be eight goalkeeper sessions on Tuesdays. 5:30-6:30 pm for U12 and U13 and 6:30-7:30 pm for U9-U11. Contact your coach if you are interested in the training.
 
 #### Spring Schedules Announced
