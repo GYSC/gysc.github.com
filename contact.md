@@ -15,7 +15,7 @@ Mike Floreck at <a href="mailto:gyscregistrar@gmail.com">gyscregistrar@gmail.com
 
 ####Financial 
 
-Kirk Martin at <a href="mailto:kmartin@helicopterapplicators.com">kmartin@helicopterapplicators.com</a>
+Rebecca Barth at <a href="mailto:rbarth@gettysburg.edu">rbarth@gettysburg.edu</a>
 
 ####Other questions 
 
