@@ -14,7 +14,7 @@ There will be eight goalkeeper sessions on Tuesdays. 5:30-6:30 pm for U12 and U1
 Schedules for all GYSC teams are now available. Take a look at the [Teams page](http://gettysburgyouthsoccer.org/teams/) for the schedules.
 
 #### Tryouts for Fall 2014/Spring 2015 Announced
-Tryouts will be held May 12th - May 16th. Additional information will be made available at the [Tryouts page](http://gettysburgyouthsoccer.org/tryouts/) soon.
+Tryouts will be held May 12th - May 16th. Additional information is available at the [Tryouts page](http://gettysburgyouthsoccer.org/tryouts/).
 <br>
 <br>
 <br>
