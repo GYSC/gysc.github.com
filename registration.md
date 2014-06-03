@@ -19,16 +19,7 @@ permalink: /registration/
 <li>Copy of birth certificate. Only required for new players.</li>
 </ul>
 
-__________________________________________________________________________________________________________________________
-
-####Uniform Information
-
-If you need to order uniforms, please complete the uniform ordering form and turn it in at the same time as the player registration materials.
-
-<ul>
-<li>Uniform Ordering Form: <a href="https://www.dropbox.com/s/c6cfky88vhzy3sg/uniformorder2013.pdf">Click Here</a></li>
-</ul>
-__________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
 
 ####Registration Requirements for Coaches, Assistant Coaches, Team Managers, and Board Members
 
